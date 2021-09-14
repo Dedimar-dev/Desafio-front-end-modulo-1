@@ -1,0 +1,49 @@
+
+.pai {
+    padding: 0px 150px 0px 0px;
+}
+
+.entre-contato {
+ width: 100%;
+ height: 200px;
+
+ margin-left: 130px;
+}
+
+.entre-contato > * {
+    margin-right: 100px;
+}
+
+.entre-contato-filho {
+   width: 730px;
+}
+
+.entre-contato-filho-texto {
+ width:100%;
+
+ padding-right: 40px;
+
+ 
+
+}
+
+
+.logo {
+    margin-top: 40px;
+    margin-left: 15px;
+}
+
+.linha-grande {
+    width: 92%;
+
+   margin-left: 130px;
+   margin-bottom: 50px;
+}
+
+
+.contato {
+ width: 100%;
+ height: 500px;
+
+ padding-left: 130px ;
+}

@@ -1,0 +1,10 @@
+.section-alto {
+    background-image: url("../../../assets/portfolio/manage/image-manage-hero.jpg");
+    background-size:80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    width: 100%;
+    height: 800px;
+   
+}
