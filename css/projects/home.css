@@ -4,29 +4,22 @@
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
-    height: 800px;
-   
+    height: 800px;  
 }
 
 .section-alto-filho {
-
     background-color: #fff;
-
     width: 560px;
     height:500px;
     padding: 10px;
-
     margin-top: 335px;
     margin-left: 10%;
 }
 
 .section-alto-filho-apresentacao {
-
     height: 200px;
     width:90%;
-
     margin: 60px 20px 100px 20px;
-
     font-size: 60px;
     font-style: normal;
     font-weight: 700;
@@ -36,18 +29,14 @@
 }
 
 .section-meio {
-   
     height: 450px;
     width: 90%;
     padding: 50px 0px 0px 170px;
-
 }
-
 
 .section-meio_Sobre_mim  {
     width: 600px;
     height: 700px;
-
 }
 
 .section-meio_Sobre_mim > * {
@@ -57,17 +46,13 @@
 .section-meio-image-homepage {
     width: 45%;
     height: 700px;
-
     margin-left: 30px;
 }
 
 .titulo-Sobre-mim {
-
     height: 42px;
     width: 430px;
-
     margin-top: 70px;
-   
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
@@ -77,12 +62,9 @@
 }
 
 .paragrafo-Sobre-mim {
-
     height: 380px;
     width:600px;
-    
     top: 30px;
-
     font-size:20px;
     font-style: normal;
     font-weight: 400;
@@ -96,15 +78,13 @@
     background-color: #33323D;
     background-size: 20px;
     background-repeat: no-repeat;
-    background-position: 8%;
-    
+    background-position: 8%; 
     font-size: 14px;
     font-style: normal;
     font-weight: 400;
     line-height: 14px;
     letter-spacing: 2px;
     text-align: center;  
-
     margin-top: 50px;
 }
 
@@ -120,18 +100,14 @@
 
 .bnt-portifolio:hover {
     background-color: #33323D;
-    color: #fff;
-   
+    color: #fff;   
 }
-
 
 .linha-alto {
     height: 1px;
     width: 600px;
-
     margin-top: 0px;
     margin-bottom: 0px;
-
     background-color:silver;
 }
 
@@ -139,16 +115,13 @@
 .linha-baixo {
     height: 1px;
     width: 600px;
-
     margin-top: 55px;
     margin-bottom: 0px;
-
     background-color:silver;
 }
 
 .section-baixo {
     margin-bottom: 50px;
-
     width: 90%;
     padding: 0px 0px 40px 160px;
 }
@@ -156,7 +129,6 @@
 .section-baixo-titulo {
     height: 84px;
     width: 367px;
-
     font-size: 40px;
     font-style: normal;
     font-weight: 700;
